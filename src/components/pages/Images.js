@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../Images.css";
+import '../../App.css';
 import Popup from "../Popup";
 
 class Images extends Component {
